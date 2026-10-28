@@ -2,14 +2,6 @@
 
 Đo **nhiệt độ** và **độ đục** của nước bằng ESP32, gửi dữ liệu lên Firebase Realtime Database mỗi 2 giây, hiển thị thời gian thực trên trang web và cho phép **hiệu chuẩn cảm biến từ xa** ngay trên web.
 
-## Demo
-
-<!-- Thêm ảnh vào thư mục docs/ rồi bỏ dấu comment các dòng dưới -->
-<!-- ![Mạch thực tế](docs/hardware.jpg) -->
-<!-- ![Giao diện web](docs/dashboard.png) -->
-
-Trang web: [link Firebase Hosting của dự án]
-
 ## Sơ đồ hệ thống
 
 ```mermaid
